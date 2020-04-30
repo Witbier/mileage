@@ -1,0 +1,11 @@
+{
+  "name": "mileage",
+  "version": "0.0.0-alpha",
+  "description": "",
+  "main": "mileage.js",
+  "scripts": {
+  },
+  "license": "MIT",
+  "dependencies": {
+  }
+}
