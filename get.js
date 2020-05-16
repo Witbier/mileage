@@ -9,7 +9,7 @@ export const getPathFromString = str => {
 
 }
 
-export const  getPathValue = (obj, objPath, defaultVal) => {
+export const  get = (obj, objPath, defaultVal) => {
 
 	objPath = getPathFromString(objPath);
 	let currObject = obj;
