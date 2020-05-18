@@ -1,3 +1,3 @@
 const head  = array => array[0];
 
-export head;
+export default head;
