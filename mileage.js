@@ -4,6 +4,7 @@ import head from './head';
 import chunk from './chunk';
 import throttle from './throttle';
 import map from '.map';
+import filter from '.filter';
 
 export default {
     curry,
@@ -11,5 +12,6 @@ export default {
     head,
     chunk,
     throttle,
-    map
+    map,
+    filter
 };
